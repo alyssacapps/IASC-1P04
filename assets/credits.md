@@ -15,3 +15,4 @@ Creative Commons
 Attribution (3.0)
 
 ---
+"Old books in Sarah's house" by lungstruck is licensed under CC BY 2.0
