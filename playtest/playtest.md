@@ -2,6 +2,6 @@
 ## Playtest
 
 ## Play the game
-Play the game prototype [here](prototype/TheSecretsofEldergrove.html)
+Play the game prototype [here](../prototype/TheSecretsofEldergrove.html)
 
 ## Complete the playtest survey
