@@ -1,11 +1,19 @@
-# IASC-1P04 | Alyssa Capps
+# The Secrets of ELdergrove by Alyssa Capps
+## IASC-1P04 | Fall 2020
 
-Welcome to the website for my Twine Game, created for the course IASC 1P04 at Brock University.
+## About the Game
 
-## Playtest
+The Secrets of Eldergrove is a short adventure game where the objective is to find a hidden treasure in the Eldergrove woods. The player is faced with moral choices which can lead them down a differnt path depending on what they chose.  
+
+## Play now
+
+Play The Secrets of Eldergrove [here](final_build/TheSecretsof Eldergrobe_FinalBuild.html)
+
+Pkay th
+### Playtest
 
 Playtest my game [here](playtest/playtest)
 
-## Prototype
+### Prototype
 
 Play prototype [here](prototype/TheSecretsofEldergrove.html)
