@@ -3,7 +3,7 @@
 
 ## About the Game
 
-The Secrets of Eldergrove is a short adventure game where the objective is to find a hidden treasure in the Eldergrove woods. The player is faced with moral choices which can lead them down a differnt path depending on what they chose.  
+The Secrets of Eldergrove is a short adventure game where the objective is to find a hidden treasure in the Eldergrove woods. The player is faced with moral choices which can lead them down a differnt path depending on what they chose. Beware the loud music throughout the game.  
 
 ## Play now
 
