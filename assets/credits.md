@@ -37,7 +37,7 @@ Empty House by Mana Junkie (c) copyright 2020 Licensed under a Creative Commons 
 
 ---
 
-"Sadness cosmo"
+"Sadness Cosmo"
 by Bruno_ph
 2010 - Licensed under
 Creative Commons
