@@ -11,7 +11,7 @@ Play The Secrets of Eldergrove [here](final_build/TheSecretsofEldergrove_FinalBu
 
 ### Playtest
 
-Playtest my game [here](playtest/playtest)
+Playtest my game [here](playtest/playtest.md)
 
 ### Prototype
 
