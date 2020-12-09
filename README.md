@@ -1,4 +1,4 @@
-# The Secrets of ELdergrove by Alyssa Capps
+# The Secrets of Eldergrove by Alyssa Capps
 ## IASC-1P04 | Fall 2020
 
 ## About the Game
