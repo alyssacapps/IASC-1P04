@@ -9,7 +9,6 @@ The Secrets of Eldergrove is a short adventure game where the objective is to fi
 
 Play The Secrets of Eldergrove [here](final_build/TheSecretsof Eldergrobe_FinalBuild.html)
 
-Pkay th
 ### Playtest
 
 Playtest my game [here](playtest/playtest)
